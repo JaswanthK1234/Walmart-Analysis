@@ -1,0 +1,4 @@
+pandas
+sqlalchemy
+pymysql
+mysql-connector-python
